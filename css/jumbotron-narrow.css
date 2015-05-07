@@ -35,6 +35,7 @@ body {
 @media (min-width: 768px) {
   .container {
     max-width: 730px;
+    background:url(../images/cheng.JPG)
   }
 }
 .container-narrow > hr {
