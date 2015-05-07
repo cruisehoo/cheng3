@@ -35,7 +35,6 @@ body {
 @media (min-width: 768px) {
   .container {
     max-width: 730px;
-    background:url(../images/cheng.JPG)
   }
 }
 .container-narrow > hr {
@@ -48,6 +47,7 @@ body {
   border-bottom: 1px solid #e5e5e5;
   background-size: 100% 100%; 
   background-repeat: no-repeat; 
+  position:absolute;
   background:url(../images/cheng.JPG)
 }
 .jumbotron .btn {
